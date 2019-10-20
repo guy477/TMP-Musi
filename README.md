@@ -7,3 +7,7 @@ Group playlist making for car rides. (Assumptions: the users will be respectable
 
 ## Done
 * Set up background credential and gitignore
+
+### Contributers
+* Guy477
+* [enter name here]
